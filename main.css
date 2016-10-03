@@ -1,0 +1,37 @@
+html {
+  text-align: center;
+  padding-top: 50px;
+  background:#ffe6f3;
+
+}
+
+body {
+  background:#ffe6f3;
+
+}
+
+.banner {
+  background:#ffe6f3;
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+img {
+  height: 40px;
+  width: 40px;
+}
+
+.quoteBox {
+  border: 5px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 15px;
+  background:black;
+  color: white;
+  font-size: 55px;
+  font-family: 'Raleway', sans-serif;
+
+}
